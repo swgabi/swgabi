@@ -1,6 +1,6 @@
 ## 🎀 Sobre mim: 
 
-Estudante da ETEC Guaianases, cursando Desenvolvimento de Sistemas, estou começando a construir uma base sólida em programação e tecnologia.
+Estudante da ETEC Guaianases, cursando Desenvolvimento de Sistemas. Estou começando a construir uma base sólida em programação e tecnologia.
 
 ## 🚀 Minha Stack:
 
